@@ -4,3 +4,4 @@
 ### Follow Me
 - [语雀笔记](https://www.yuque.com/wang90)
 - [Github](https://github.com/wang90)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang90)](https://github.com/anuraghazra/github-readme-stats)
